@@ -1,0 +1,6 @@
+requests
+celery
+django
+pytest
+pytest-cov
+
