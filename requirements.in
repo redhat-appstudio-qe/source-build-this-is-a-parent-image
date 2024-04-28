@@ -1,6 +1,5 @@
-requests
+requests==2.31.0
 celery
 django
-pytest
-pytest-cov
-
+pytest==8.2.0
+pytest-cov==5.0.0
