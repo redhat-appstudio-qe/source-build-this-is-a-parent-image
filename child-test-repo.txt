@@ -1,1 +1,1 @@
-https://github.com/cqi-stonesoup-test/source-build-base-on-konflux-image
+https://github.com/redhat-appstudio-qe/source-build-base-on-konflux-image
