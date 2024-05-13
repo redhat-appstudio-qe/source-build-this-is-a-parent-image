@@ -1,1 +1,0 @@
-https://github.com/redhat-appstudio-qe/source-build-base-on-konflux-image
